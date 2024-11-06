@@ -1,0 +1,6 @@
+@CadastroMembrosApi_HostAddress = http://localhost:5145
+
+GET {{CadastroMembrosApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
